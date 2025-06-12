@@ -67,7 +67,7 @@ export function App(params) {
             <tr>
               <th>Name</th>
               <th>Email</th>
-              <th>Passw</th>
+              <th>Pass</th>
             </tr>
           </thead>
           <tbody>
