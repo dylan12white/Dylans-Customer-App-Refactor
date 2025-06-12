@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Dylans-Customer-App-Refactor/static/css/main.1c9b3e01.css",
-    "main.js": "/Dylans-Customer-App-Refactor/static/js/main.32fca843.js",
+    "main.js": "/Dylans-Customer-App-Refactor/static/js/main.2d9aa4a1.js",
     "index.html": "/Dylans-Customer-App-Refactor/index.html",
     "main.1c9b3e01.css.map": "/Dylans-Customer-App-Refactor/static/css/main.1c9b3e01.css.map",
-    "main.32fca843.js.map": "/Dylans-Customer-App-Refactor/static/js/main.32fca843.js.map"
+    "main.2d9aa4a1.js.map": "/Dylans-Customer-App-Refactor/static/js/main.2d9aa4a1.js.map"
   },
   "entrypoints": [
     "static/css/main.1c9b3e01.css",
-    "static/js/main.32fca843.js"
+    "static/js/main.2d9aa4a1.js"
   ]
 }
